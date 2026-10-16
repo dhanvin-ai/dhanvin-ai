@@ -1,6 +1,6 @@
 # Dhanvin Reddy
 
-B.Tech in Cyber Physical Systems @ Manipal Institute of Technology (2024-2028)
+**B.Tech in Cyber Physical Systems @ Manipal Institute of Technology (2024-2028)**
 Manipal,Udupi,Karnataka
 dhanvinreddy0137@gmail.com
 🔗 [GitHub](https://github.com/dhanvin-ai) · [Tervik](https://www.tervik.in)
