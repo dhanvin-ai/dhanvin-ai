@@ -55,8 +55,9 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 ### Connect With Me
 
 <p>
-  <a href="https://github.com/dhanvin-ai"><img src="https://img.shields.io/badge/GitHub-dhanvin--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dhanvin on GitHub" /></a>
-  <a href="https://www.tervik.in"><img src="https://img.shields.io/badge/Tervik-Website-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Tervik" /></a>
+  <a href="https://www.linkedin.com/in/dhanvin-reddy-3a0ab0324/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35" /></a>
+  &nbsp;
+  <a href="https://github.com/dhanvin-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/main/assets/github-white.svg" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="35" height="35" /></picture></a>
 </p>
 
 ---
