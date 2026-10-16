@@ -1,6 +1,8 @@
 # Dhanvin Reddy
 
-**Building tools for AI agent reliability, evaluation, and observability.**  
+** B.Tech in Cyber Physical Systems @ Manipal Institute of Technology (2024-2028) **  
+Manipal,Udupi,Karnataka
+dhanvinreddy0137@gmail.com
 🔗 [GitHub](https://github.com/dhanvin-ai) · [Tervik](https://www.tervik.in)
 
 <p align="center">
@@ -21,7 +23,7 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 ---
 
-### 🚀 Highlighted Work
+### Highlighted Work
 
 - **[Tervik](https://github.com/dhanvin-ai/Tervik):** Failure analytics for AI agents — conversation capture, silent-failure detection, and replay-based fix verification.
 - **[RAVEN](https://github.com/dhanvin-ai/RAVEN):** AI agent evaluation and reliability platform — scenario testing, unsafe-behavior detection, reliability scoring, and regression tracking.
@@ -29,7 +31,7 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 ---
 
-### 🔍 [Tervik](https://www.tervik.in) · AI Agent Analytics
+### [Tervik](https://www.tervik.in) · AI Agent Analytics
 
 - Capture **conversations and tool calls** through Python and Node clients.
 - Detect **silent failures** such as unsupported action claims, failed tools, and repeated user corrections.
@@ -40,7 +42,7 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 ---
 
-### 🧪 Areas I’m Working On
+### Areas I’m Working On
 
 - **Agent reliability:** evaluating behavior across realistic scenarios and tracking regressions.
 - **Observability:** making conversations, tool outcomes, and failure patterns easier to inspect.
@@ -57,7 +59,7 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
