@@ -64,19 +64,8 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 ### Languages & Tools
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+<p align="center">
+  <img src="./assets/tools-marquee.svg" alt="Animated logos moving from left to right: Python, TypeScript, JavaScript, React, Next.js, FastAPI, Node.js, PostgreSQL, Docker, AWS, Azure, and Git" width="960" />
 </p>
 
 ---
@@ -85,8 +74,8 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
 
 <p align="center">
   <a href="https://github.com/dhanvin-ai">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhanvin-ai&show_icons=true&theme=tokyonight" alt="Dhanvin’s GitHub statistics" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanvin-ai&layout=compact&theme=tokyonight" alt="Most used languages in Dhanvin’s public repositories" height="165" />
+    <img src="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/output/github-stats.svg" alt="Dhanvin’s GitHub statistics" height="165" />
+    <img src="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/output/top-languages.svg" alt="Most used languages in Dhanvin’s public repositories" height="165" />
   </a>
 </p>
 
@@ -94,6 +83,16 @@ My projects explore **agent evaluation, behavioral coverage, and developer tooli
   <a href="https://github.com/dhanvin-ai">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvin-ai&theme=tokyonight" alt="Dhanvin’s GitHub contribution streak" />
   </a>
+</p>
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/dhanvin-ai/dhanvin-ai/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Dhanvin’s contribution graph" width="100%" />
+  </picture>
 </p>
 
 ---
